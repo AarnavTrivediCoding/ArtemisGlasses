@@ -1,12 +1,3 @@
-# Braille to Text Translator
-
-## Authors 
-- Bárbara Côrtes e Souza (@barbaracortes)
-- Lucas Fernandes Turci  (@lucasturci)
-
-## Abstract
-Given a picture containing a braille message, this apllications translates the message into text and outputs two items the original image with the ascii characters above the braille symbols.
-
 ## Project description
 
 ### Image processing techniques involved
